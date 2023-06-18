@@ -1,0 +1,152 @@
+*{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+.container{
+    max-width: 1140px;  
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+/* HEADER */
+
+.header {
+width: 100%;
+color: white;
+padding: 20px;
+background:#f800ff;
+box-sizing: border-box;
+
+}
+
+
+
+.menu { 
+  list-style: none;
+ }
+
+.menu-link {
+  color: #e41c6f;
+  text-decoration: none;
+  
+}
+
+/* Дополнительно */
+
+.menu-link {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.button1 { 
+color: #FFFFFF; 
+text-decoration: none;
+ width: 130px;
+  height: 40px;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 50px;
+   font-weight: 500;
+  cursor: pointer;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+   align-items: center;
+   
+  
+}
+
+
+/* BANNER */
+
+.banner-description 
+{  text-align: center;
+   color: #e6118d; 
+   }
+
+.banner-title
+{font-size: 48px;
+text-align: center;
+color: #52052e;
+padding: 10px 0px;}
+
+.banner-section {
+padding: 100px 0;
+background-image: url(https://phonoteka.org/uploads/posts/2021-04/1617819783_39-p-fon-vesna-dlya-teksta-44.jpg);
+background-size: cover;
+background-position: center;
+}
+
+/* CARDS */
+.card-section {
+  padding: 50px 0px;
+}
+
+.cards-title .cards-description {
+  color: #dd2390;
+  text-align: center;
+}
+
+.card 
+{
+padding: 25px;
+margin-top: 25px;
+width: 25%;
+background: #ead9eb;
+box-shadow: 0px 2px 7px 0px #9e90ff;
+text-align: center;
+}
+
+.card-link {
+text-decoration: none;
+  color: #e01c95;}
+
+
+.card-button {
+text-align: center;
+background: #ffffff;
+padding: 10px 70px;
+border-radius: 10px;
+cursor: pointer;
+
+}
+
+.card-title, .card-text  {
+margin-bottom: 10 px;
+}
+.cards-text1 {
+  color: #e41c6f;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* FOOTER */  
+
+.footer
+{
+    background-image: url(https://klike.net/uploads/posts/2022-11/1669438975_7-2.jpg);
+         background-size: cover;
+          padding: 50px 0px;
+
+}
+.copyright {
+  color: #e30d0d;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
